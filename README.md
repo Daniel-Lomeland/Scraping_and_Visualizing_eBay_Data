@@ -1,7 +1,6 @@
-![eBay Logo](Scraping_Completed_Listings/Images/ebay_logo.png)
-
-
 # <center> Scraping Listings Data
+
+![eBay Logo](Scraping_Completed_Listings/Images/ebay_logo.png)
 
 
 ## <center> Easily collect historical ebay listing info in a csv format!
